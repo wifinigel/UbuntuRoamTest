@@ -10,7 +10,9 @@ ubuntu_roam_test.sh - Script to report current Wi-Fi connection info and indicat
 
  Output of script:
 
+```
 "BSSID, SSID, Signal_Level_dBm, Channel, Time"
 "bssid_addr, ssid_name, sig_level, channel_number, timestamp"
 "bssid_addr, ssid_name, sig_level, channel_number, timestamp"
 "bssid_addr, ssid_name, sig_level, channel_number, timestamp"
+```
